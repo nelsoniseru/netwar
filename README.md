@@ -7,7 +7,7 @@ Technology used:
 * Redis
 
 Steps to take: 
-* clone the repo with this command git clone ""
+* clone the repo with this command git clone "https://github.com/nelsoniseru/netwar.git"
 * create an env file
 * make sure redis is running in your computer
 * make sure you have mongodb installed and running
